@@ -1,5 +1,6 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiFirebase, DiReact, DiZend, DiAws } from "react-icons/di";
+import { SiAzuredevops } from "react-icons/si";
 import { Section, SectionDivider, SectionText, SectionTitle } from "../../styles/GlobalComponents";
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from "./TechnologiesStyles";
 
@@ -45,6 +46,18 @@ const Technologies = () => (
                     <ListParagraph>
                         Experience with <br />
                         tools like Figma
+                    </ListParagraph>
+                </ListContainer>
+            </ListItem>
+            <ListItem>
+                <picture>
+                    <SiAzuredevops size="2.3rem" />
+                </picture>
+                <ListContainer>
+                    <ListTitle>DevOps</ListTitle>
+                    <ListParagraph>
+                        Experience with <br />
+                        Docker, Docker Swarm (Orchestration tool), Github Actions, CI/CD Pipeline
                     </ListParagraph>
                 </ListContainer>
             </ListItem>

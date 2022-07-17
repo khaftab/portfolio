@@ -7,12 +7,9 @@ const Timeline = () => {
             <SectionTitle>About Me</SectionTitle>
             <ImageSection>
                 <SectionText style={{ textAlign: "justify", maxWidth: "650px" }}>
-                    I am very passionate about building production ready things. I always try to
-                    build things in a more simplified, scalable and maintainable way. So that it can
-                    be developed further. I can do all types of PSD to HTML, Xd to React, JAMSTACK
+                    I am very passionate about learning new technologies and contribute to open source projects. Apart from that I am also interested in web scrapping, browser automation etc. I do all types of PSD to HTML, Xd to React, JAMSTACK
                     application, working with Serverless function, building REST or GraphQL API in
-                    node js etc. Currently I am pursuing my undergraduate degree in Informartion
-                    Technology from GCELT.
+                    Node js, containerizing application with Docker etc. Currently I am pursuing my undergraduate degree in Informartion Technology from GCELT.
                 </SectionText>
                 <Img src="/images/profile.png" />
             </ImageSection>

@@ -17,7 +17,7 @@ export const projects = [
         image: "/images/repair.png",
         tags: ["JAMSTACK", "Next JS", "PWA", "Firebase"],
         source: "",
-        visit: "https://www.repairtoday.co.in/",
+        visit: "https://repair-today-production.vercel.app",
         id: 1,
     },
     {
@@ -27,7 +27,7 @@ export const projects = [
         image: "/images/taza.png",
         tags: ["Next JS", "Tailwind", "Firebase", "PWA"],
         source: "",
-        visit: "https://tazabazar.in",
+        visit: "https://taza-bazar-production.vercel.app",
         id: 2,
     },
     {
